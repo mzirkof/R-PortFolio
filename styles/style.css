@@ -269,8 +269,8 @@
 
   .tag_ctn .tag {
     /* Auto layout */
-    /* display: flex;
-    flex-direction: row;*/
+    display: flex;
+    flex-direction: row;
     align-items: center; 
   
     list-style: none;
